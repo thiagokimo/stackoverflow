@@ -1,6 +1,8 @@
 How to take and save a picture on Android phone without press the save button?
 ==============================================================================
 
+I'm developing an android app for the visually-impaired people, so it will be very convenient for them if I can take and save the picture automatically without pressing the save button after taking a picture. I'm looking for API from android developer website, but I didn't find any API which is helpful for me. Anyone who has any idea about how to achieve this goal?
+
 [Source](http://stackoverflow.com/questions/12305609/how-to-take-and-save-a-picture-on-android-phone-without-press-the-save-button "Source")
 
 ## Answer: ##
