@@ -24,3 +24,6 @@ Here's an example:
         }
     }
     
+Remember to add in your AndroidManifest the permission:
+
+<code> `<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />` </code>
