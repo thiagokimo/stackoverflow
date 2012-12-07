@@ -1,0 +1,1 @@
+The folder was structured by the question **tags/topic**, followed by the question **id**
